@@ -1,0 +1,38 @@
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.25; regularization_coefficient=1e-06; batch_size=32; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.25; regularization_coefficient=0; batch_size=32; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.15; regularization_coefficient=0; batch_size=32; learning_rate=0.0005
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.2; regularization_coefficient=0; batch_size=72; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.1; regularization_coefficient=0; batch_size=32; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.2; regularization_coefficient=0; batch_size=64; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.2; regularization_coefficient=1e-06; batch_size=32; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.15; regularization_coefficient=1e-06; batch_size=32; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.1; regularization_coefficient=0; batch_size=48; learning_rate=0.001
+# channels=[20, 40, 30, 10]; mlp_units=[400, 100, 13]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=4; dropout=0.2; regularization_coefficient=0; batch_size=32; learning_rate=0.001
+# SUMMARY for this architecture: pooling_size=3; kernel_size=4; dropout=0.15; regularization_coefficient=0; batch_size=32; learning_rate=0.001
+
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=0; batch_size=72; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.3; regularization_coefficient=0; batch_size=72; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.3; regularization_coefficient=0; batch_size=48; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=0; batch_size=64; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=1e-06; batch_size=32; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=0; batch_size=48; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=1e-06; batch_size=32; learning_rate=0.0005
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=0; batch_size=32; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.35; regularization_coefficient=1e-06; batch_size=48; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.35; regularization_coefficient=0; batch_size=64; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.35; regularization_coefficient=0; batch_size=32; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=1e-06; batch_size=48; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.3; regularization_coefficient=1e-06; batch_size=32; learning_rate=0.001
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=1e-06; batch_size=48; learning_rate=0.0005
+# channels=[80, 60, 40, 20]; mlp_units=[800, 80]; pooling_indices=[0, 1, 3]; pooling_size=3; kernel_size=3; dropout=0.25; regularization_coefficient=1e-06; batch_size=72; learning_rate=0.001
+# SUMMARY for this architecture: pooling_size=3; kernel_size=3; dropout=0.3; regularization_coefficient=0.0000001; batch_size=48; learning_rate=0.001
+
+# EVALUTION for [20, 40, 30, 10]
+# Training Loss = 0.01587669551372528. Training Accuracy = 0.9978790879249573
+# Validation Loss = 0.18564127385616302. Validation Accuracy = 0.9522799849510193
+# Test Loss = 0.2424202412366867. Test Accuracy = 0.9427965879440308
+
+# EVALUTION for [80, 60, 40, 20]
+# Training Loss = 0.02239961177110672. Training Accuracy = 0.9936373233795166
+# Validation Loss = 0.15357723832130432. Validation Accuracy = 0.955461323261261
+# Test Loss = 0.18953756988048553. Test Accuracy = 0.9406779408454895

@@ -1,0 +1,59 @@
+CREMA_D
+
+1. Training Loss = 0.07572014629840851. Training Accuracy = 0.9997760653495789
+   Validation Loss = 1.150294542312622. Validation Accuracy = 0.7322807908058167
+   Test Loss = 1.191504955291748. Test Accuracy = 0.7201880812644958
+2. Training Loss = 0.045900698751211166. Training Accuracy = 0.9996640682220459
+   Validation Loss = 0.9603854417800903. Validation Accuracy = 0.7766207456588745
+   Test Loss = 0.9747768640518188. Test Accuracy = 0.7670473456382751
+3. Training Loss = 0.061932433396577835. Training Accuracy = 0.99916011095047
+   Validation Loss = 0.7338695526123047. Validation Accuracy = 0.7890493869781494
+   Test Loss = 0.7904148101806641. Test Accuracy = 0.7749412059783936
+
+EMO_DB
+
+1. Training Loss = 0.00398270832374692. Training Accuracy = 1.0
+   Validation Loss = 0.7804794907569885. Validation Accuracy = 0.8644859790802002
+   Test Loss = 0.6118713617324829. Test Accuracy = 0.8691588640213013
+2. Training Loss = 0.014958485960960388. Training Accuracy = 0.9937694668769836
+   Validation Loss = 0.6942507028579712. Validation Accuracy = 0.8691588640213013
+   Test Loss = 0.624500572681427. Test Accuracy = 0.8855140209197998
+3. Training Loss = 0.0030256854370236397. Training Accuracy = 1.0
+   Validation Loss = 0.385059654712677. Validation Accuracy = 0.9158878326416016
+   Test Loss = 0.4353258013725281. Test Accuracy = 0.9252336621284485
+
+EMOVO
+
+1. Training Loss = 0.003349211299791932. Training Accuracy = 1.0
+   Validation Loss = 1.282165288925171. Validation Accuracy = 0.8046709299087524
+   Test Loss = 1.3250573873519897. Test Accuracy = 0.7940552234649658
+2. Training Loss = 0.007152891717851162. Training Accuracy = 0.9992907643318176
+   Validation Loss = 0.8676979541778564. Validation Accuracy = 0.8152866363525391
+   Test Loss = 0.7321737408638. Test Accuracy = 0.8259023427963257
+3. Training Loss = 0.00577498646453023. Training Accuracy = 0.9992907643318176
+   Validation Loss = 0.8673503994941711. Validation Accuracy = 0.8322717547416687
+   Test Loss = 0.8110111355781555. Test Accuracy = 0.8386411666870117
+
+RAVDESS
+
+1. Training Loss = 0.012299371883273125. Training Accuracy = 1.0
+   Validation Loss = 1.3450909852981567. Validation Accuracy = 0.7569444179534912
+   Test Loss = 1.4019176959991455. Test Accuracy = 0.7309027910232544
+2. Training Loss = 0.006917501334100962. Training Accuracy = 0.9997106194496155
+   Validation Loss = 1.1664223670959473. Validation Accuracy = 0.7725694179534912
+   Test Loss = 1.1201872825622559. Test Accuracy = 0.7543402910232544
+3. Training Loss = 0.008419009856879711. Training Accuracy = 1.0
+   Validation Loss = 0.9253098368644714. Validation Accuracy = 0.7899305820465088
+   Test Loss = 0.9798741936683655. Test Accuracy = 0.7638888955116272
+
+SHEMO
+
+1. Training Loss = 0.02664933353662491. Training Accuracy = 1.0
+   Validation Loss = 0.9414653778076172. Validation Accuracy = 0.8566666841506958
+   Test Loss = 1.0631568431854248. Test Accuracy = 0.8516666889190674
+2. Training Loss = 0.01381461787968874. Training Accuracy = 0.9991666674613953
+   Validation Loss = 0.7113789319992065. Validation Accuracy = 0.8799999952316284
+   Test Loss = 0.6964860558509827. Test Accuracy = 0.8645833134651184
+3. Training Loss = 0.017093414440751076. Training Accuracy = 1.0
+   Validation Loss = 0.4907029867172241. Validation Accuracy = 0.9008333086967468
+   Test Loss = 0.46539178490638733. Test Accuracy = 0.9024999737739563

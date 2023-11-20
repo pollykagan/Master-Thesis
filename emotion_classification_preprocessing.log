@@ -1,0 +1,49 @@
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| Initializing EmovoPreprocessor for the dataset emovo with emotion fearful
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| EmovoPreprocessor performs data augmentation
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| The transformation "gaussian_noise" will be applied by Augmentor with probability 0.5
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| The transformation "pitch_shift" will be applied by Augmentor with probability 0.5
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| The transformation "time_stretch" will be applied by Augmentor with probability 0.5
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| The transformation "gain_transition" will be applied by Augmentor with probability 0.5
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| The transformation "room_simulator" will be applied by Augmentor with probability 0.5
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| Performing audio data augmentation
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| Starting extracting original waveforms
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| AudioFeaturesExtractor starts to process 168 audio files
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| AudioFeaturesExtractor loaded 168 audio files
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| Extracting waveforms of 168 provided audio files
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| Finished extracting 168 original waveforms
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| For each file 1 augmentations will be generated (augmentation cycles)
+06/11/23 23:03:40   INFO     ||| emotion_classification_preprocessing ||| Augmentation cycle: 1
+06/11/23 23:03:41   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 9/168   (5%)
+06/11/23 23:03:42   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 17/168   (10%)
+06/11/23 23:03:42   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 26/168   (15%)
+06/11/23 23:03:43   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 34/168   (20%)
+06/11/23 23:03:44   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 42/168   (25%)
+06/11/23 23:03:44   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 51/168   (30%)
+06/11/23 23:03:45   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 59/168   (35%)
+06/11/23 23:03:45   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 68/168   (40%)
+06/11/23 23:03:46   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 76/168   (45%)
+06/11/23 23:03:46   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 84/168   (50%)
+06/11/23 23:03:47   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 93/168   (55%)
+06/11/23 23:03:48   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 101/168   (60%)
+06/11/23 23:03:48   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 110/168   (65%)
+06/11/23 23:03:49   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 118/168   (70%)
+06/11/23 23:03:50   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 126/168   (75%)
+06/11/23 23:03:50   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 135/168   (80%)
+06/11/23 23:03:51   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 143/168   (85%)
+06/11/23 23:03:52   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 152/168   (90%)
+06/11/23 23:03:52   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 160/168   (95%)
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| Augmentation progress:   Cycle 1/1;   Augmentations: 168/168   (100%)
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| Finished audio data augmentation process
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| AudioFeaturesExtractor starts to process 336 audio files
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| AudioFeaturesExtractor loaded 336 audio files
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| EmovoPreprocessor performs "mfcc" feature extraction for both original and augmented data
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| Extracting MFCCs of 336 provided audio files
+06/11/23 23:03:53   INFO     ||| emotion_classification_preprocessing ||| MFCCs parameters: frame_size=512, hop_length=128, mfcc_number=80
+06/11/23 23:03:55   INFO     ||| emotion_classification_preprocessing ||| Finished extracting MFCCs
+06/11/23 23:03:55   INFO     ||| emotion_classification_preprocessing ||| EmovoPreprocessor extracts the labels of both original and augmented data
+06/11/23 23:03:55   INFO     ||| emotion_classification_preprocessing ||| EmovoPreprocessor stores the features and the labels
+06/11/23 23:03:56   INFO     ||| emotion_classification_preprocessing ||| EmovoPreprocessor finished preprocessing
+06/11/23 23:03:56   INFO     ||| emotion_classification_preprocessing ||| Original audio files were taken from: /Users/pollykagan/Documents/Master Paper/data/fearful/original/emovo
+06/11/23 23:03:56   INFO     ||| emotion_classification_preprocessing ||| Augmented audio files were taken/generated at: /Users/pollykagan/Documents/Master Paper/data/fearful/augmented/emovo
+06/11/23 23:03:56   INFO     ||| emotion_classification_preprocessing ||| The features and the labels are saved to: /Users/pollykagan/Documents/Master Paper/data/fearful/preprocessed/emovo/mfcc
+06/11/23 23:03:56   INFO     ||| emotion_classification_preprocessing ||| Summary: 0 warning, 0 errors

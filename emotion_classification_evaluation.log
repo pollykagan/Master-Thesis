@@ -1,0 +1,14 @@
+07/09/23 02:34:51   INFO     ||| emotion_classification_evaluation ||| Loading a pre-trained model from plots/all_emotions/shemo_xxx
+07/09/23 02:34:52   INFO     ||| emotion_classification_evaluation ||| Model summary:
+07/09/23 02:34:52   INFO     ||| emotion_classification_evaluation ||| Loading train, validation and test sets from /mnt/e/My programms/Python Programs/Polly's Master Paper/plots/all_emotions
+07/09/23 02:34:59   INFO     ||| emotion_classification_evaluation ||| Evaluating the model on the training set
+07/09/23 02:34:59   INFO     ||| emotion_classification_evaluation ||| Starting the evaluation process on 7200 samples
+07/09/23 02:35:03   INFO     ||| emotion_classification_evaluation ||| Finished the evaluation process. Training Loss = 0.016270870342850685. Training Accuracy = 0.9998611211776733
+07/09/23 02:35:03   INFO     ||| emotion_classification_evaluation ||| Evaluating the model on the validation set
+07/09/23 02:35:03   INFO     ||| emotion_classification_evaluation ||| Starting the evaluation process on 2400 samples
+07/09/23 02:35:03   INFO     ||| emotion_classification_evaluation ||| Finished the evaluation process. Validation Loss = 0.49275654554367065. Validation Accuracy = 0.8949999809265137
+07/09/23 02:35:03   INFO     ||| emotion_classification_evaluation ||| Evaluating the model on the test set
+07/09/23 02:35:03   INFO     ||| emotion_classification_evaluation ||| Starting the evaluation process on 2400 samples
+07/09/23 02:35:04   INFO     ||| emotion_classification_evaluation ||| Finished the evaluation process. Test Loss = 0.5576677918434143. Test Accuracy = 0.8895833492279053
+07/09/23 02:35:04   INFO     ||| emotion_classification_evaluation ||| Removing training, validation and test sets
+07/09/23 02:35:04   INFO     ||| emotion_classification_evaluation ||| Summary: 0 warning, 0 errors

@@ -1,0 +1,33 @@
+{
+  "gaussian_noise": {
+    "min_amplitude": 0.001,
+    "max_amplitude": 0.005,
+    "p": 0.5
+  },
+  "pitch_shift": {
+    "min_semitones": -3,
+    "max_semitones": 3,
+    "p": 0.5
+  },
+  "time_stretch": {
+    "min_rate": 0.9,
+    "max_rate": 1.1,
+    "leave_length_unchanged": true,
+    "p": 0.5
+  },
+  "gain_transition": {
+    "min_gain_in_db": -12,
+    "max_gain_in_db": 8,
+    "min_duration": 0.3,
+    "max_duration": 0.7,
+    "duration_unit": "fraction",
+    "p": 0.5
+  },
+  "room_simulator": {
+    "min_absorption_value": 0.1,
+    "max_absorption_value": 0.5,
+    "min_mic_distance": 0.2,
+    "max_mic_distance": 1,
+    "p": 0.5
+  }
+}

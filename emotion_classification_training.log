@@ -1,0 +1,9 @@
+06/11/23 03:39:06   INFO     ||| emotion_classification_training ||| [32mLoading the data[0m
+06/11/23 03:39:12   INFO     ||| emotion_classification_training ||| [32mFinished loading the data. Features shape: (12000, 438, 80, 1). Labels shape: (12000,)[0m
+06/11/23 03:39:12   INFO     ||| emotion_classification_training ||| [32mSplitting the data to train, validation and test sets[0m
+06/11/23 03:39:12   INFO     ||| emotion_classification_training ||| [32mFinished splitting the data. Train set size: 7200. Validation set size: 2400. Test set size: 2400[0m
+06/11/23 03:39:12   INFO     ||| emotion_classification_training ||| [32mBuilding the model (EmotionClassifier)[0m
+06/11/23 03:39:13   INFO     ||| emotion_classification_training ||| [32mCompiling the model[0m
+06/11/23 03:39:13   INFO     ||| emotion_classification_training ||| [32mModel summary:[0m
+06/11/23 03:39:13   INFO     ||| emotion_classification_training ||| [32mFinished build and compilation of the model[0m
+06/11/23 03:39:13   INFO     ||| emotion_classification_training ||| [32mStarting the training process. It will last for 300 epochs[0m

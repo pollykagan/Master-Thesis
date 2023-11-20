@@ -1,0 +1,1 @@
+channels=[10, 20, 30]; mlp_units=[250]; pooling_indices=[0, 1]; pooling_size=3; kernel_size=5; dropout=0.2; regularization_coefficient=1e-05; batch_size=32; learning_rate=0.005
